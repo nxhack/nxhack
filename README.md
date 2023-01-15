@@ -12,4 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<!-- 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nxhack&repo=github-readme-stats)](https://github.com/nxhack/github-readme-stats)
+-->
