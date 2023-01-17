@@ -12,6 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![nxhack's GitHub stats](https://github-readme-stats.vercel.app/api?username=nxhack)](https://github.com/anuraghazra/github-readme-stats)
 <!-- 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nxhack&repo=github-readme-stats)](https://github.com/nxhack/github-readme-stats)
 -->
